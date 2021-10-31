@@ -1,0 +1,16 @@
+C:\Users\student\DataStr\student_summary\studen_sum\bin\Debug\net5.0\studen_sum.exe
+C:\Users\student\DataStr\student_summary\studen_sum\bin\Debug\net5.0\studen_sum.deps.json
+C:\Users\student\DataStr\student_summary\studen_sum\bin\Debug\net5.0\studen_sum.runtimeconfig.json
+C:\Users\student\DataStr\student_summary\studen_sum\bin\Debug\net5.0\studen_sum.runtimeconfig.dev.json
+C:\Users\student\DataStr\student_summary\studen_sum\bin\Debug\net5.0\studen_sum.dll
+C:\Users\student\DataStr\student_summary\studen_sum\bin\Debug\net5.0\ref\studen_sum.dll
+C:\Users\student\DataStr\student_summary\studen_sum\bin\Debug\net5.0\studen_sum.pdb
+C:\Users\student\DataStr\student_summary\studen_sum\obj\Debug\net5.0\studen_sum.csproj.AssemblyReference.cache
+C:\Users\student\DataStr\student_summary\studen_sum\obj\Debug\net5.0\studen_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\DataStr\student_summary\studen_sum\obj\Debug\net5.0\studen_sum.AssemblyInfoInputs.cache
+C:\Users\student\DataStr\student_summary\studen_sum\obj\Debug\net5.0\studen_sum.AssemblyInfo.cs
+C:\Users\student\DataStr\student_summary\studen_sum\obj\Debug\net5.0\studen_sum.csproj.CoreCompileInputs.cache
+C:\Users\student\DataStr\student_summary\studen_sum\obj\Debug\net5.0\studen_sum.dll
+C:\Users\student\DataStr\student_summary\studen_sum\obj\Debug\net5.0\ref\studen_sum.dll
+C:\Users\student\DataStr\student_summary\studen_sum\obj\Debug\net5.0\studen_sum.pdb
+C:\Users\student\DataStr\student_summary\studen_sum\obj\Debug\net5.0\studen_sum.genruntimeconfig.cache
